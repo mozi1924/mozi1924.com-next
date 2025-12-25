@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
         </div>
         
         <h1 className="text-5xl md:text-8xl font-bold tracking-tight text-white mb-6">
-          <span className="block glitch-text">MOZI A.</span>
+          <span className="block">MOZI A.</span>
         </h1>
         
         <p className="text-xl md:text-2xl text-zinc-400 mb-8 max-w-2xl mx-auto font-light">
